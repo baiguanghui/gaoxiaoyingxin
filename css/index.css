@@ -11,14 +11,67 @@ body{
 }
 .chizi{
     width: 4.13rem;
-    /*height: 0.74rem;*/
-    /*margin-top: 0.33rem;*/
-    margin:0.33rem 0 0 1.76rem ;
+   margin:0.33rem 0 0 1.76rem ;
 }
-.tuo{
+.tuo-2{
     width: 2.76rem;
     height: 1.85rem;
+    margin-left: 0.58rem;
 }
-.tuo-1{
-    padding-left: 0.85rem;
+.tuo{
+    margin: 0.18rem 0 1.08rem;
 }
+.chanyu{
+    border-radius: 25px;
+    width: 80vw;
+    height: 0.88rem;
+    background: #fbd748;
+    background: -webkit-linear-gradient(top, #fbd748 0%,#e89f3b 51%,#fbd748 51%,
+    #e89f3b 51%,#e89f3b 100%);
+    text-align: center;
+    box-shadow: inset 0 -4px 0 rgba(139,67,0 ,0.3);
+}
+.chanyu:active{
+    box-shadow: inset 0 0 0 rgba(139,67,0 ,0.3);
+    transform: translateY(-4px);
+}
+.chanyu>h1{
+    font-size: 0.36rem;
+    color: #76440a;
+}
+.chanjia{
+    font-size: 0.28rem;
+    color: #76440a;
+    margin-top: 0.18rem;
+}
+#gt{
+    /*margin:0.96rem  0.3rem  0.82rem;*/
+    margin:0.96rem  0.3rem ;
+}
+.xian>img{
+    width:2.45rem ;
+    height: 0.02rem;
+    color: #d0a170;
+}
+.xian>h1{
+    font-size: 0.34rem;
+    color: #76440a;
+    padding:0 0.32rem;
+}
+
+#div{
+    color: #76440a;
+}
+#div h1{
+    font-size: 0.3rem;
+}
+#div p{
+    font-size: 0.28rem;
+}
+.div-1{
+padding: 0.5rem 0 0.64rem ;
+}
+.gao{
+    margin-top: 0.2rem;
+}
+
