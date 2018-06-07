@@ -1,5 +1,24 @@
-.a{
-    background: red;
-    color: white;
-    font-size: 12rem;
+body{
+    background: #fcf4df;
+    width: 100vw;
+}
+.banner{
+    background-image: url("../img/shouyebanner.jpg");
+    width: 100vw;
+    height: 4.16rem;
+    background-repeat: no-repeat;
+    background-size: contain ;
+}
+.chizi{
+    width: 4.13rem;
+    /*height: 0.74rem;*/
+    /*margin-top: 0.33rem;*/
+    margin:0.33rem 0 0 1.76rem ;
+}
+.tuo{
+    width: 2.76rem;
+    height: 1.85rem;
+}
+.tuo-1{
+    padding-left: 0.85rem;
 }
