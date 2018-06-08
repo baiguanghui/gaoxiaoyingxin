@@ -45,8 +45,8 @@ body{
     margin-top: 0.18rem;
 }
 #gt{
-    /*margin:0.96rem  0.3rem  0.82rem;*/
-    margin:0.96rem  0.3rem ;
+    margin:0.96rem  0.34rem  0.36rem 0.39rem;
+    /*margin:0.96rem  0.3rem ;*/
 }
 .xian>img{
     width:2.45rem ;
@@ -74,4 +74,13 @@ padding: 0.5rem 0 0.64rem ;
 .gao{
     margin-top: 0.2rem;
 }
-
+.dd{
+    font-weight: normal;
+    line-height: 0.46rem;
+}
+.div-3{
+    padding: 0.5rem 0 0.64rem ;
+}
+.gao>h1{
+  font-size: 0.28rem;
+}
