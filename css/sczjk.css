@@ -1,0 +1,81 @@
+body{
+    background: #fcf4df;
+    width: 100vw;
+}
+.banner{
+    background-image: url("../img/banner5.jpg");
+    width: 100vw;
+    height: 3.25rem;
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+.hdbz{
+ width: 2.77rem;
+    height: 0.58rem;
+   margin: 0.25rem  0 0.32rem 2.42rem;
+}
+.gt{
+    padding-left: 0.28rem;
+    font-size: 0.3rem;
+    color: #76440a;
+}
+
+.bz{
+    background-image: url("../img/yuan.png");
+    width: 0.57rem;
+    height: 0.57rem;
+    background-repeat: no-repeat;
+   background-size: cover;
+}
+.bz-1{
+    font-size: 0.51rem;
+    color: white;
+}
+.bz-2{
+    font-size: 0.3rem;
+    color: #76440a;
+    padding-left: 0.12rem;
+}
+.bz-3{
+    font-size: 0.28rem;
+    color: #9e7e5d;
+    padding-left: 0.7rem;
+}
+.jl{
+    padding: 0.45rem 0 0.36rem 0;
+}
+/*二微码开始*/
+.rwm{
+    background-image: url("../img/guanzhu.png");
+    width: 3.37rem;
+    height: 3.41rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+   margin: 0.32rem 0;
+}
+.rwm>img{
+    width: 1.97rem;
+    padding: 0.12rem 0 0.09rem 0;
+}
+.rwm>h1{
+font-size: 0.32rem;
+    color: #76440a;
+}
+.rwm>span{
+    font-size: 0.28rem;
+    color: #9c6c35;
+}
+/*二微码结束*/
+.hdgz{
+    padding:0 0.3rem;
+}
+.hdgz>img{
+    width:2.45rem ;
+    height: 0.02rem;
+    color: #d0a170;
+}
+.hdgz>h1{
+    font-size: 0.34rem;
+    color: #76440a;
+    /*white-space: nowrap;*/
+}

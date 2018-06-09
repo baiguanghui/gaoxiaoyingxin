@@ -11,7 +11,7 @@ body{
 }
 .chizi{
     width: 4.13rem;
-   margin:0.33rem 0 0 1.76rem ;
+    margin:0.33rem 0 0 1.76rem ;
 }
 .tuo-2{
     width: 2.76rem;
@@ -70,7 +70,7 @@ body{
     font-size: 0.28rem;
 }
 .div-1{
-padding: 0.5rem 0 0.64rem ;
+    padding: 0.5rem 0 0.64rem ;
 }
 .gao{
     margin-top: 0.2rem;
@@ -83,5 +83,34 @@ padding: 0.5rem 0 0.64rem ;
     padding: 0.5rem 0 0.64rem ;
 }
 .gao>h1{
-  font-size: 0.28rem;
+    font-size: 0.28rem;
 }
+/*弹窗开始*/
+.tc{
+    width: 100%;
+    height: 100%;
+    /*left: 0;*/
+    /*right: 0;*/
+    /*top: 0;*/
+    /*bottom: 0;*/
+    position: absolute;
+    background: rgba(0,0,0,.5);
+    z-index: 10;
+    /*display: none;*/
+}
+.d-none{
+    /*display: none !important;*/
+}
+.ma>img{
+    width: 1.97rem;
+    padding: 0.12rem 0 0.09rem 0;
+}
+.ma>h1{
+    font-size: 0.32rem;
+    color: white;
+}
+.ma>span{
+    font-size: 0.28rem;
+    color: white;
+}
+/*弹窗结束*/
