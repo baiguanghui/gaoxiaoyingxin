@@ -16,33 +16,38 @@
 <body>
 <div class="banner"></div>
 <div class="gt">
-<div class="xinming" >
+<div class="haoma" flex="main:justify cross:center" >
+    <label>
     姓名：
+    </label>
     <input type="text" value="请填写您的身份证姓名"  >
-    <div class="dixian"></div>
+
 </div>
 
-    <div class="haoma" >
-        手机号码：
+    <div class="haoma" flex="main:justify cross:center" >
+        <label> 手机号码：</label>
         <input type="text" value="15880000000"  >
-        <div class="dixian"></div>
+
     </div>
 
-    <div class="shengfen" >
-        身份证号码：
+    <div class="haoma" flex="main:justify cross:center" >
+        <label>  身份证号码：</label>
         <input type="text" value="请填写您的身份证号"  >
-        <div class="dixian"></div>
+
     </div>
 
 </div>
 
 <div class="xiangji">
-    <img src="../img/xiangji.jpg">
+    <label for="photo">
+        <input type="file" id="photo"/>
+        <i></i>
+    </label>
     <p>请拍照上传您的准考证或录取通知书或毕业证书</p>
 </div>
 
-<div flex="dir:top mian:center cross:center">
-    <button type="button" class="queren"><h1>确认</h1></button>
+<div flex="dir:top main:center cross:center">
+    <button type="button" class="queren">确认</button>
 </div>
 <script src="../js/index.js"></script>
 </body>

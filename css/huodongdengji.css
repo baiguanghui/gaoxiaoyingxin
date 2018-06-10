@@ -10,49 +10,42 @@ body{
     background-size: contain ;
 }
 .gt{
+    margin-top: 0.1rem;
     font-size: 0.32rem;
+    padding: 0.3rem;
 }
-.xinming{
+.gt label{
     color: #76440a;
-    margin: 0.31rem 0.3rem 0.2rem;
-    display: inline-block;
-    height: 0.88rem;
+    width: 2.25rem;
 }
-.xinming>input{
+.gt input{
+    flex: 1;
+    -webkit-flex: 1;
     color: #ad9071;
-    padding-left: 1.56rem;
-    background-color: #fcf4df;
-}
-.dixian{
-    width: 6.9rem;
-    border: 1px solid #d9be9c;
-}
-.haoma{
-    color: #76440a;
-    margin-left: 0.3rem;
-    display: inline-block;
-    height: 0.88rem;
-}
-.haoma>input{
-    color: #ad9071;
-    padding-left: 0.96rem;
-    background-color: #fcf4df;
-}
-.shengfen{
-    color: #76440a;
-    margin:0.2rem 0.3rem 0.26rem ;
-    display: inline-block;
-    height: 0.88rem;
-}
-.shengfen>input{
-    color: #ad9071;
-    padding-left: 0.96rem;
-    background-color: #fcf4df;
+    height: 100%;
+    background: transparent;
 }
 
-.xiangji>img{
+/*.dixian{*/
+    /*width: 6.9rem;*/
+    /*border: 1px solid #d9be9c;*/
+/*}*/
+.haoma{
+    color: #76440a;
+    height: 1.08rem;
+    width:100%;
+    border-bottom: 1px solid #d9be9c;
+}
+
+#photo{
+    display: none;
+}
+#photo+i{
+    width:2.5rem;
     height: 2.5rem;
-    width: 2.5rem;
+    background: url(../img/xiangji.jpg);
+    background-size: 100% 100%;
+    display: inline-block;
 }
 .xiangji{
     text-align: center;
@@ -71,12 +64,11 @@ font-size:0.28rem ;
     text-align: center;
     box-shadow: inset 0 -4px 0 rgba(139,67,0 ,0.3);
     margin-top: 0.7rem;
+    font-size: 0.36rem;
+    color: #76440a;
 }
 .queren:active{
     box-shadow: inset 0 0 0 rgba(139,67,0 ,0.3);
-    transform: translateY(-4px);
-}
-.queren>h1{
-    font-size: 0.36rem;
-    color: #76440a;
+    transform: translateY(4px);
+
 }

@@ -12,25 +12,19 @@ body{
 .hdbz{
  width: 2.77rem;
     height: 0.58rem;
-   margin: 0.25rem  0 0.32rem 2.42rem;
+   margin: 0.25rem  0 0.31rem 0;
 }
 .gt{
-    padding-left: 0.28rem;
+    /*padding-left: 0.28rem;*/
     font-size: 0.3rem;
     color: #76440a;
+    padding: 0 0.28rem;
 }
 
-.bz{
-    background-image: url("../img/yuan.png");
+.bz>img{
     width: 0.57rem;
-    height: 0.57rem;
-    background-repeat: no-repeat;
-   background-size: cover;
 }
-.bz-1{
-    font-size: 0.51rem;
-    color: white;
-}
+
 .bz-2{
     font-size: 0.3rem;
     color: #76440a;
@@ -66,9 +60,7 @@ font-size: 0.32rem;
     color: #9c6c35;
 }
 /*二微码结束*/
-.hdgz{
-    padding:0 0.3rem;
-}
+
 .hdgz>img{
     width:2.45rem ;
     height: 0.02rem;
@@ -77,5 +69,6 @@ font-size: 0.32rem;
 .hdgz>h1{
     font-size: 0.34rem;
     color: #76440a;
+    padding: 0 0.32rem;
     /*white-space: nowrap;*/
 }
