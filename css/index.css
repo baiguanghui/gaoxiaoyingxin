@@ -1,13 +1,8 @@
 body{
     background: #fcf4df;
-    width: 100vw;
 }
 .banner{
-    background-image: url("../img/shouyebanner.jpg");
     width: 100vw;
-    height: 4.16rem;
-    background-repeat: no-repeat;
-    background-size: cover ;
 }
 .chizi>img{
     width: 4.13rem;
@@ -87,3 +82,33 @@ padding: 0.5rem 0 0.64rem ;
 .gao>h1{
   font-size: 0.28rem;
 }
+
+/*µ¯´°¿ªÊ¼*/
+.tc{
+    width: 100%;
+    height: 100%;
+    /*left: 0;*/
+    /*right: 0;*/
+    /*top: 0;*/
+    /*bottom: 0;*/
+    position: absolute;
+    background: rgba(0,0,0,.5);
+    z-index: 10;
+    display: none;
+}
+.d-none{
+    display: none !important;
+}
+.ma>img{
+    width: 2.97rem;
+    padding: 0.12rem 0 0.09rem 0;
+}
+.ma>h1{
+    font-size: 0.32rem;
+    color: white;
+}
+.ma>span{
+    font-size: 0.28rem;
+    color: white;
+}
+/*µ¯´°½áÊø*/

@@ -1,13 +1,8 @@
 body{
     background: #fcf4df;
-    width: 100vw;
 }
 .banner{
-    background-image: url("../img/bn.jpg");
     width: 100vw;
-    height: 3.25rem;
-    background-repeat: no-repeat;
-    background-size: contain ;
 }
 .gt{
     margin-top: 0.1rem;

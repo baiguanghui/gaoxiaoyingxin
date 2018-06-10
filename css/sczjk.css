@@ -1,13 +1,11 @@
 body{
     background: #fcf4df;
-    width: 100vw;
+
 }
 .banner{
-    background-image: url("../img/banner5.jpg");
+
     width: 100vw;
-    height: 3.25rem;
-    background-repeat: no-repeat;
-    background-size: cover ;
+
 }
 .hdbz{
  width: 2.77rem;
@@ -15,10 +13,8 @@ body{
    margin: 0.25rem  0 0.31rem 0;
 }
 .gt{
-    /*padding-left: 0.28rem;*/
     font-size: 0.3rem;
     color: #76440a;
-    padding: 0 0.28rem;
 }
 
 .bz>img{
@@ -40,7 +36,7 @@ body{
 }
 /*二微码开始*/
 .rwm{
-    background-image: url("../img/guanzhu.png");
+    background-image: url("../img/wembj.png");
     width: 3.37rem;
     height: 3.41rem;
     background-repeat: no-repeat;
@@ -51,13 +47,16 @@ body{
     width: 1.97rem;
     padding: 0.12rem 0 0.09rem 0;
 }
+
 .rwm>h1{
 font-size: 0.32rem;
     color: #76440a;
+    margin-top:0.34rem ;
 }
 .rwm>span{
     font-size: 0.28rem;
     color: #9c6c35;
+    margin-bottom:0.36rem ;
 }
 /*二微码结束*/
 
