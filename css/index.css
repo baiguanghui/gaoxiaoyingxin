@@ -83,22 +83,22 @@ padding: 0.5rem 0 0.64rem ;
   font-size: 0.28rem;
 }
 
-/*µ¯´°¿ªÊ¼*/
+/*ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¼*/
 .tc{
     width: 100%;
     height: 100%;
-    /*left: 0;*/
-    /*right: 0;*/
-    /*top: 0;*/
-    /*bottom: 0;*/
     position: absolute;
     background: rgba(0,0,0,.5);
-    z-index: 10;
-    display: none;
+    /*z-index: 10;*/
+    /*display: none;*/
 }
+
+/*è’™å±‚æœ€å¤§å±‚çº§å¼€å§‹*/
 .d-none{
-    display: none !important;
+    display: none!important;
 }
+/*è’™å±‚æœ€å¤§å±‚çº§ç»“æŸ*/
+
 .ma>img{
     width: 2.97rem;
     padding: 0.12rem 0 0.09rem 0;
@@ -111,4 +111,4 @@ padding: 0.5rem 0 0.64rem ;
     font-size: 0.28rem;
     color: white;
 }
-/*µ¯´°½áÊø*/
+/*ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½*/
