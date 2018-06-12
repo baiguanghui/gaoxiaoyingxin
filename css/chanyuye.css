@@ -128,9 +128,9 @@ body{
 }
 
 /*蒙层最大层级开始*/
-/*.d-none{*/
-    /*display: none!important;*/
-/*}*/
+.d-none{
+    display: none!important;
+}
 /*蒙层最大层级结束*/
 .lqcg{
     width: 5.8rem;
@@ -149,7 +149,6 @@ body{
     height: 0.88rem;
     border-radius: 6px;
     margin-top: 0.68rem;
-
 }
 
 /*弹窗结束*/

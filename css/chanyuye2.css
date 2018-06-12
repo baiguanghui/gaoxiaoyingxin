@@ -1,0 +1,97 @@
+body{
+    background: #fcf4df;
+}
+.baba{
+    width: 100%;
+}
+
+/*3开始*/
+.lingqu{
+    width: 100%;
+    height: 1.58rem;
+    border-bottom: 1px dashed #d9be9c;
+    margin: 0.32rem 0 0.28rem;
+}
+.xian{
+    margin: 0.32rem 0 0.28rem;
+}
+.bj-1>h1{
+    font-size: 0.7rem;
+    color: white;
+}
+.bj-1{
+    background-image: url("../img/liubiamxing.png");
+    width: 0.82rem;
+    height: 0.95rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ba{
+    font-size: 0.34rem;
+    color: #764d0b;
+    white-space: nowrap;
+    padding: 0 2.1rem 0 0.24rem;
+}
+.baa{
+    font-size: 0.34rem;
+    color: #764d0b;
+    white-space: nowrap;
+    margin: 0 2.49rem 0 0.24rem;
+}
+.dai{
+    background-color: #969696;
+    height: 0.6rem;
+    width: 1.4rem;
+    border-radius: 8px;
+    font-size: 0.3rem;
+    color: white;
+    white-space: nowrap;
+}
+/*3结束*/
+
+/*下拉框开始*/
+.kuang{
+border-radius: 8px;
+height: 0.88rem;
+width: 3.2rem;
+color: #76440a;
+border: 1px solid #76440a;
+margin-bottom: 0.32rem;
+}
+.kuang>h1{
+font-size: 0.3rem;
+}
+.kuang>i{
+font-size: 0.35rem;
+padding-left: 0.14rem;
+}
+/*下拉框结束*/
+
+/*按钮开始*/
+#cy{
+    /*height: 1.4rem;*/
+    /*background: #fcf4df;*/
+    margin-top: 0.8rem;
+}
+.chanyu{
+    border-radius: 25px;
+    width: 80vw;
+    height: 0.88rem;
+    background: #fbd748;
+    background: -webkit-linear-gradient(top, #fbd748 0%,#e89f3b 51%,#fbd748 51%,
+    #e89f3b 51%,#e89f3b 100%);
+    text-align: center;
+    box-shadow: inset 0 -4px 0 rgba(139,67,0 ,0.3);
+    font-size: 0.36rem;
+    color: #76440a;
+}
+.chanyu:active{
+    box-shadow: inset 0 0 0 rgba(139,67,0 ,0.3);
+    transform: translateY(4px);
+}
+/*按钮结束*/
+/*展示弹窗开始*/
+.xlzs{
+    display: none;
+}
+/*展示弹窗结束*/
