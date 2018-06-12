@@ -97,25 +97,60 @@ body{
     white-space: nowrap;
 }
 /*3结束*/
-/*下拉框开始*/
-.kuang{
-    border-radius: 8px;
-    height: 0.88rem;
-    width: 3.2rem;
-    color: #76440a;
-    border: 1px solid #76440a;
-    margin-bottom: 0.32rem;
-}
-.kuang>h1{
-    font-size: 0.3rem;
-}
-.kuang>i{
-    font-size: 0.35rem;
-    padding-left: 0.14rem;
-}
-/*下拉框结束*/
+
+/*/!*下拉框开始*!/*/
+/*.kuang{*/
+    /*border-radius: 8px;*/
+    /*height: 0.88rem;*/
+    /*width: 3.2rem;*/
+    /*color: #76440a;*/
+    /*border: 1px solid #76440a;*/
+/*margin-bottom: 0.32rem;*/
+/*}*/
+/*.kuang>h1{*/
+    /*font-size: 0.3rem;*/
+/*}*/
+/*.kuang>i{*/
+    /*font-size: 0.35rem;*/
+    /*padding-left: 0.14rem;*/
+/*}*/
+/*/!*下拉框结束*!/*/
+
 
 /*弹窗开始*/
+.tc-1{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: rgba(0,0,0,.5);
+    /*z-index: 10;*/
+    /*display: none;*/
+}
+
+/*蒙层最大层级开始*/
+/*.d-none{*/
+    /*display: none!important;*/
+/*}*/
+/*蒙层最大层级结束*/
+.lqcg{
+    width: 5.8rem;
+    height:2.88rem;
+    background-color: #fcf4df;
+    border-radius: 6px;
+    font-size: 0.38rem;
+    color: #76440a;
+   padding-top: 0.82rem;
+}
+.lqcg>button{
+    font-size: 0.36rem;
+    color: white;
+    background-color: #eca93e;
+    width: 100%;
+    height: 0.88rem;
+    border-radius: 6px;
+    margin-top: 0.68rem;
+
+}
 
 /*弹窗结束*/
 
