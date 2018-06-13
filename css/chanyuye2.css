@@ -73,7 +73,7 @@ padding-left: 0.14rem;
     /*background: #fcf4df;*/
     margin-top: 0.8rem;
 }
-.chanyu{
+.gdjc{
     border-radius: 25px;
     width: 80vw;
     height: 0.88rem;
@@ -85,7 +85,7 @@ padding-left: 0.14rem;
     font-size: 0.36rem;
     color: #76440a;
 }
-.chanyu:active{
+.gdjc:active{
     box-shadow: inset 0 0 0 rgba(139,67,0 ,0.3);
     transform: translateY(4px);
 }
