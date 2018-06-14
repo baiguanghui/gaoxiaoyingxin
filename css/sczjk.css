@@ -1,11 +1,8 @@
 body{
     background: #fcf4df;
-
 }
 .banner{
-
     width: 100vw;
-
 }
 .hdbz{
  width: 2.77rem;
@@ -59,18 +56,6 @@ font-size: 0.32rem;
     margin-bottom:0.36rem ;
 }
 /*二微码结束*/
-
-.hdgz>img{
-    width:2.45rem ;
-    /*height: 0.02rem;*/
-    color: #d0a170;
-}
-.hdgz>h1{
-    font-size: 0.34rem;
-    color: #76440a;
-    padding: 0 0.32rem;
-    /*white-space: nowrap;*/
-}
 
 
 /*活动规则全部开始*/

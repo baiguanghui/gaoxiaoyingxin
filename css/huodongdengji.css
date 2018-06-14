@@ -22,10 +22,6 @@ body{
     background: transparent;
 }
 
-/*.dixian{*/
-    /*width: 6.9rem;*/
-    /*border: 1px solid #d9be9c;*/
-/*}*/
 .haoma{
     color: #76440a;
     height: 1.08rem;
@@ -60,39 +56,6 @@ font-size:0.28rem ;
     color: #76440a;
     margin-top: 0.2rem;
 }
-
-/*!*弹窗图片开始*!*/
-/*.xszp{*/
-    /*width:2.5rem;*/
-    /*height: 2.5rem;*/
-    /*text-align: center;*/
-/*}*/
-/*!*蒙层最大层级开始*!*/
-/*.d-none{*/
-    /*display: none!important;*/
-/*}*/
-/*!*蒙层最大层级结束*!*/
-/*!*弹窗图片结束*!*/
-
-
-/*.queren{*/
-    /*border-radius: 25px;*/
-    /*width: 80vw;*/
-    /*height: 0.88rem;*/
-    /*background: #adadad;*/
-    /*text-align: center;*/
-    /*box-shadow: inset 0 -4px 0 rgba(139,67,0 ,0.3);*/
-    /*margin-top: 0.7rem;*/
-    /*font-size: 0.36rem;*/
-    /*color: #76440a;*/
-    /**/
-/*}*/
-/*.queren:active{*/
-    /*box-shadow: inset 0 0 0 rgba(139,67,0 ,0.3);*/
-    /*transform: translateY(4px);*/
-
-/*}*/
-
 
 .queren{
     border-radius: 25px;

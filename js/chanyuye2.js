@@ -13,10 +13,6 @@ $(".xiala").click(function () {
 
 });
 
-    //$(".tbb").click(function(){
-    //    $(".tbb").removeClass("d-none");
-    //
-    //});
 // 下拉框结束
 
     // 更多精彩开始
