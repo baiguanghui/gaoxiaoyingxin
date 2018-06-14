@@ -3,7 +3,20 @@ $(function () {
 $(".xiala").click(function () {
     $(this).children(".xlzs").slideToggle();
     $(this).find(".xlzs").toggleClass("open");
+    if($(".tbb").hasClass("d-none")){
+        $(".tbb").removeClass("d-none");
+        $(".tb").addClass("d-none");
+    }else{
+        $(".tb").removeClass("d-none");
+        $(".tbb").addClass("d-none");
+    }
+
 });
+
+    //$(".tbb").click(function(){
+    //    $(".tbb").removeClass("d-none");
+    //
+    //});
 // 下拉框结束
 
     // 更多精彩开始

@@ -1,5 +1,6 @@
 body{
     background: #fcf4df;
+    margin-bottom: 0.26rem;
 }
 .baba{
     width: 100%;
@@ -46,6 +47,7 @@ body{
     font-size: 0.3rem;
     color: white;
     white-space: nowrap;
+    padding: 0  0.12rem;
 }
 /*3结束*/
 
@@ -61,11 +63,16 @@ margin-bottom: 0.32rem;
 .kuang>h1{
 font-size: 0.3rem;
 }
-.kuang>i{
+.tb{
 font-size: 0.35rem;
 padding-left: 0.14rem;
+ transform: rotate(180deg);
+-webkit-transform: rotate(180deg);
 }
 
+.d-none{
+    display: none;
+}
 /*展示弹窗开始*/
 .xlzs{
     padding: 0 0.3rem;
