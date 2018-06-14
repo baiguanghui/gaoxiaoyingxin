@@ -41,6 +41,8 @@ body{
     color: #76440a;
     margin-top: 0.18rem;
 }
+
+/*活动规则全部开始*/
 #gt{
     padding:0.96rem  0.34rem  0.36rem 0.39rem;
 
@@ -82,6 +84,7 @@ padding: 0.5rem 0 0.64rem ;
 .gao>h1{
   font-size: 0.28rem;
 }
+/*活动规则全部结束*/
 
 /*������ʼ*/
 .tc{

@@ -32,10 +32,12 @@ $(".queren").click(function () {
     volidate();
 });
 
-//     // 弹窗图片开始
-// $('.photo').click(function () {
-//     $(".tt").removeClass("d-none");
-// })
-//     // 弹窗图片开结束
+
+    $('#photo').change(function(){
+       $(this).next('i').css('background-image','url(../img/xszp.png)');
+    });
+
+
+
 
 });

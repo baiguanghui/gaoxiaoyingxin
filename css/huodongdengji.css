@@ -37,14 +37,23 @@ body{
     display: none;
 }
 #photo+i{
-    width:2.5rem;
-    height: 2.5rem;
-    background: url(../img/xiangji.jpg);
+    position: absolute;
+    left: 0;
+    right: 0;
+    top:0;
+    bottom: 0;
+    background-image: url(../img/xiangji.jpg);
     background-size: 100% 100%;
-    display: inline-block;
 }
 .xiangji{
     text-align: center;
+}
+.photo{
+    width:2.5rem;
+    height: 2.5rem;
+    position: relative;
+    display: block;
+    margin: 0 auto;
 }
 .xiangji>p{
 font-size:0.28rem ;

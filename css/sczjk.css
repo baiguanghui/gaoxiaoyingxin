@@ -62,7 +62,7 @@ font-size: 0.32rem;
 
 .hdgz>img{
     width:2.45rem ;
-    height: 0.02rem;
+    /*height: 0.02rem;*/
     color: #d0a170;
 }
 .hdgz>h1{
@@ -71,3 +71,48 @@ font-size: 0.32rem;
     padding: 0 0.32rem;
     /*white-space: nowrap;*/
 }
+
+
+/*活动规则全部开始*/
+#gt{
+    padding:0.96rem  0.34rem  0.36rem 0.39rem;
+
+}
+.xian>img{
+    width:2.45rem ;
+    height: 0.02rem;
+    color: #d0a170;
+}
+.xian>h1{
+    font-size: 0.34rem;
+    color: #76440a;
+    padding:0 0.32rem;
+    white-space: nowrap;
+}
+
+#div{
+    color: #76440a;
+}
+#div h1{
+    font-size: 0.3rem;
+}
+#div p{
+    font-size: 0.28rem;
+}
+.div-1{
+    padding: 0.5rem 0 0.64rem ;
+}
+.gao{
+    margin-top: 0.2rem;
+}
+.dd{
+    font-weight: normal;
+    line-height: 0.46rem;
+}
+.div-3{
+    padding: 0.5rem 0 0.64rem ;
+}
+.gao>h1{
+    font-size: 0.28rem;
+}
+/*活动规则全部结束*/
