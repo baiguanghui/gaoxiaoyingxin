@@ -65,12 +65,24 @@ font-size: 0.3rem;
 font-size: 0.35rem;
 padding-left: 0.14rem;
 }
+
+/*展示弹窗开始*/
+.xlzs{
+    padding: 0 0.3rem;
+}
+.baaa{
+    font-size: 0.34rem;
+    color: #764d0b;
+    white-space: nowrap;
+    padding: 0 1.35rem  0 0.24rem;
+}
+/*展示弹窗结束*/
+
 /*下拉框结束*/
+
 
 /*按钮开始*/
 #cy{
-    /*height: 1.4rem;*/
-    /*background: #fcf4df;*/
     margin-top: 0.8rem;
 }
 .gdjc{
@@ -90,8 +102,3 @@ padding-left: 0.14rem;
     transform: translateY(4px);
 }
 /*按钮结束*/
-/*展示弹窗开始*/
-.xlzs{
-    display: none;
-}
-/*展示弹窗结束*/

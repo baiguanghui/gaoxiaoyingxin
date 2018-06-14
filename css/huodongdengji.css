@@ -51,6 +51,20 @@ font-size:0.28rem ;
     margin-top: 0.2rem;
 }
 
+/*!*弹窗图片开始*!*/
+/*.xszp{*/
+    /*width:2.5rem;*/
+    /*height: 2.5rem;*/
+    /*text-align: center;*/
+/*}*/
+/*!*蒙层最大层级开始*!*/
+/*.d-none{*/
+    /*display: none!important;*/
+/*}*/
+/*!*蒙层最大层级结束*!*/
+/*!*弹窗图片结束*!*/
+
+
 /*.queren{*/
     /*border-radius: 25px;*/
     /*width: 80vw;*/

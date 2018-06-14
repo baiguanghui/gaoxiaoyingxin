@@ -7,7 +7,7 @@ $(function () {
 
 // 扫二维码开始
     $(".ma>img").click(function () {
-        window.location.href="huodongdengji.html"
+        $(".tc").removeClass("d-none");
     });
 // 扫二维码结束
 

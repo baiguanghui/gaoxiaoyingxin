@@ -12,7 +12,8 @@ function  volidate() {
         if(sjzz.test(sj)){
             if(sfzz.test(sfz)) {
                 if(photo.length>0) {
-                    alert("成功")
+                    // alert("成功")
+                    window.location.href="chanyuye.html"
                     }else {
                     alert("请上传照片")
                 }
@@ -31,6 +32,10 @@ $(".queren").click(function () {
     volidate();
 });
 
-
+//     // 弹窗图片开始
+// $('.photo').click(function () {
+//     $(".tt").removeClass("d-none");
+// })
+//     // 弹窗图片开结束
 
 });
